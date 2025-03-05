@@ -1,0 +1,107 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\SCOM_CCM_JLC_STACKUP\SCOM_CCM_JLC_STACKUP.PcbDoc
+Date     : 05-03-2025
+Time     : 07:32:23 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNet('MODEM_FLASH_SCK'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNet('MODEM_FLASH_SIO0'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNetClass('ANT_50R'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.178mm) (Max=2mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNet('MODEM_FLASH_CS'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNet('MODEM_FLASH_SIO3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.335mm) (Max=1mm) (Preferred=0.5mm) (InNet('MODEM_USIM_VDD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNet('MODEM_FLASH_SIO1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNet('MODEM_FLASH_SIO2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.366mm) (Preferred=0.366mm) (InNetClass('R12_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNetClass('R26_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.178mm) (Max=0.335mm) (Preferred=0.335mm) (InNetClass('R20_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNetClass('R23_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.366mm) (Preferred=0.366mm) (InNetClass('R14_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNetClass('R24_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNetClass('R25_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.335mm) (Preferred=0.335mm) (InNetClass('R21_Nets'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.183mm) (Max=0.366mm) (Preferred=0.366mm) (InNetClass('R11_Nets'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.229mm < 0.254mm) Between Pad J12-1(41.75mm,77.02mm) on Multi-Layer And Track (42.514mm,78.115mm)(42.885mm,77.745mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.229mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.229mm < 0.254mm) Between Pad J13-1(43.73mm,53.75mm) on Multi-Layer And Track (42.635mm,54.514mm)(43.005mm,54.885mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.229mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.229mm < 0.254mm) Between Pad J17-1(62.98mm,58.25mm) on Multi-Layer And Track (61.885mm,59.014mm)(62.255mm,59.385mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.229mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.229mm < 0.254mm) Between Pad J23-1(53.5mm,77.52mm) on Multi-Layer And Track (54.264mm,78.615mm)(54.635mm,78.245mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.229mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Pad SW3-3(62.5mm,10.8mm) on L1 And Track (54.52mm,12.2mm)(63.52mm,12.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.25mm]
+Rule Violations :5
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=55mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:01

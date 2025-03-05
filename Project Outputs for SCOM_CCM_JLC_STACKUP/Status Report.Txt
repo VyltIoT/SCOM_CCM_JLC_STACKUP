@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 07:33:16 PM On 05-03-2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [SCOM_CCM_JLC_STACKUP.PrjPcb]
+   Generated File[//vylt-my.sharepoint.com/personal/satyam_vylt_in/Documents/Altium_Designs/SCOM_CCM_JLC_STACKUP/Project Outputs for SCOM_CCM_JLC_STACKUP/BOM/Bill of Materials-SCOM_CCM_JLC_STACKUP.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 07:33:18 PM On 05-03-2025

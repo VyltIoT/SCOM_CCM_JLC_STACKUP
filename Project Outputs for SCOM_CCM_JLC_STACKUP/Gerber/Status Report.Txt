@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [SCOM_CCM_JLC_STACKUP.PcbDoc]
+   Generated File[SCOM_CCM_JLC_STACKUP.GTO]
+   Generated File[SCOM_CCM_JLC_STACKUP.GTP]
+   Generated File[SCOM_CCM_JLC_STACKUP.GTS]
+   Generated File[SCOM_CCM_JLC_STACKUP.GTL]
+   Generated File[SCOM_CCM_JLC_STACKUP.G1]
+   Generated File[SCOM_CCM_JLC_STACKUP.G2]
+   Generated File[SCOM_CCM_JLC_STACKUP.GBL]
+   Generated File[SCOM_CCM_JLC_STACKUP.GBS]
+   Generated File[SCOM_CCM_JLC_STACKUP.GBP]
+   Generated File[SCOM_CCM_JLC_STACKUP.GBO]
+   Generated File[SCOM_CCM_JLC_STACKUP.GM3]
+   Generated File[SCOM_CCM_JLC_STACKUP.GM4]
+   Generated File[SCOM_CCM_JLC_STACKUP.GM5]
+   Generated File[SCOM_CCM_JLC_STACKUP.GM6]
+   Generated File[SCOM_CCM_JLC_STACKUP.GKO]
+   Generated File[SCOM_CCM_JLC_STACKUP.GPT]
+   Generated File[SCOM_CCM_JLC_STACKUP.GPB]
+   Generated File[SCOM_CCM_JLC_STACKUP.GM]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 07:33:25 PM On 05-03-2025
